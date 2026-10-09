@@ -1,8 +1,6 @@
 /**
  * @file practical 2.cpp
- * @author Makarand Pankaj Bobhate (Roll No: 09, Div: 5)
- * @institution MIT ADT University, School of AI
- * @course Object Oriented Programming (OOPS)
+ * @author Prajwal Nigade (Roll No: 38)
  * @brief Practical 2: College Record Digitization System (Array of Objects)
  */
 
